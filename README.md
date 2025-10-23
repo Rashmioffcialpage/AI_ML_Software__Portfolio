@@ -25,8 +25,7 @@ Currently, I’m working on a **Global Business Expansion Platform** — an AI-p
 - Exploring **global market analytics** and **AI for enterprise growth strategies**.  
 
 ### 🤝 Let’s Connect
-📫 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/nathaniel-handan-treasure](#)  
-💻 **GitHub:** [github.com/nathanielhandantreasure](#)  
+📫 **Email:** rashmi.lnu@my.liu.edu  
+💼 **LinkedIn:** https://www.linkedin.com/in/rashmi71269/
 
 > _“I don’t just build models — I build solutions that move businesses forward.”_
