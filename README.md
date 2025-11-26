@@ -1,11 +1,7 @@
 
 <img width="1024" height="1536" alt="Friendly Portrait of Rashmi" src="https://github.com/user-attachments/assets/74f83a79-af4a-416f-9c70-65ce3b997c82" />
 
-<h1 align="center">💫 Hey there, I'm <strong>Rashmi</strong>!</h1>
-
-<p align="center">
-  <em>AI/ML Engineer • Software Developer • Content Creator • MS in Artificial Intelligence (LIU – 2026)</em>
-</p>
+<h1 align="center">AI/ML Engineer • Software Developer • Content Creator • MS in Artificial Intelligence (LIU – 2026) <strong>Rashmi</strong>!</h1>
 
 ---
 
