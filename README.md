@@ -61,23 +61,19 @@ with projects like:
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Languages  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmioffcialpage&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashmioffcialpage&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmioffcialpage&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rashmioffcialpage&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmioffcialpage&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmioffcialpage&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
-
 
 ---
 
 ## 🤝 Connect With Me  
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rashmi71269/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://preview--rashmi-portfolio-builder.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -86,6 +82,7 @@ with projects like:
   <a href="https://www.kaggle.com/rashmilnu"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/rashmithimmaraj1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
+
 
 ---
 
