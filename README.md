@@ -1,101 +1,86 @@
-AI & Machine Learning Engineer | Full-Stack & Creative Technologist
+<h1 align="center">💫 Hey there, I'm <strong>Rashmi</strong>!</h1>
 
-Hi! I’m Rashmi, a passionate AI/ML Engineer, Deep Learning Developer, and Full-Stack Innovator currently pursuing my Master’s in Artificial Intelligence at Long Island University, NYC.
+<p align="center">
+  <em>AI/ML Engineer • Software Developer • Content Creator • MS in Artificial Intelligence (LIU – 2026)</em>
+</p>
 
-I love building intelligent systems, experimenting with neural networks, and creating digital experiences that blend AI + creativity + engineering.
+---
 
-🚀 About Me
+## 🚀 About Me  
+I’m an enthusiastic and constantly-evolving **AI/ML Engineer** who loves building intelligent systems, experimenting with deep learning, and creating content that inspires others.
 
-🎓 Master’s in Artificial Intelligence (2026), Long Island University – Brooklyn
+✨ A little snapshot of who I am:  
+- 🤖 I design and train **ML & Deep Learning models**  
+- 🧠 I’m obsessed with **LLMs, CV, NLP, and MLOps**  
+- 🎥 I make **AI & tech content** on *YouTube + TikTok*  
+- 📝 I actively write **LinkedIn blogs** (2k+ followers!)  
+- 🎓 Currently pursuing **MS in Artificial Intelligence – LIU Brooklyn**  
+- 💼 Preparing for **Summer 2026 internships (AI/ML + SWE)**  
+- 🏗 Working on a **15-project AI/ML + Full-Stack GitHub portfolio**
 
-🤖 Focus areas: Deep Learning, Computer Vision, Generative AI, MLOps, Recommendation Systems
+---
 
-💼 Preparing for Summer 2026 internships (AI/ML, Data Science, Software Engineering)
+## 🌐 Tech Universe I Work In  
 
-📸 Currently growing as a content creator (YouTube + TikTok)
+### 🧠 Artificial Intelligence & ML  
+`Python` • `TensorFlow` • `Keras` • `PyTorch` • `YOLOv8`  
+`scikit-learn` • `HuggingFace Transformers` • `XGBoost`
 
-✍️ Active LinkedIn blogger with 2K+ followers
+### 🛠 MLOps & Deployment  
+`FastAPI` • `Streamlit` • `Flask` • `Docker` • `GitHub Actions`
 
-🔥 Interested in building AI frameworks, automation systems, and real-world ML applications
+### 💻 Software / Full-Stack  
+`React` • `Node.js` • `Express.js` • `MongoDB`  
+`REST APIs` • `JavaScript`
 
-🧪 Previously published: “IoTML-Based Food Freshness Detection System”
+### ⚙ Tools & Workflow  
+`VS Code` • `Jupyter` • `Git` • `GitHub` • `Postman`
 
-🌐 Exploring research areas in Wildfire Detection, Health Analytics, & Predictive Modeling
+---
 
-🛠 Tech Stack
-Machine Learning & AI
+## 🔥 What I’m Currently Building  
+📦 **A complete AI/ML & Software Engineering Portfolio**  
+with projects like:  
+- YOLOv8 Object Detection  
+- Mini-LLM Chatbot (GPT-2 / LLaMA)  
+- Resume Parser (NLP)  
+- MERN Stack CRUD App  
+- End-to-End ML Pipeline with CI/CD  
+- Reinforcement Learning Agent  
 
-Python • TensorFlow • PyTorch • Keras • Scikit-Learn
-OpenCV • Pandas • NumPy • Matplotlib • Seaborn
+> Everything will be neatly documented and open-sourced here soon!
 
-Deep Learning
+---
 
-CNNs • RNN/LSTM • Transformers • GANs • Transfer Learning
-ViT • Autoencoders
+## 🌟 Featured Interests  
+- 🌐 Human-AI interaction  
+- 🧩 Model interpretability  
+- 📸 Computer Vision applications  
+- 🎨 Blending **AI + Creativity**  
+- 🔮 Future of AGI & autonomous systems
 
-Dev & Cloud
+---
 
-Git • GitHub • Docker • Linux
-AWS (EC2, S3, SageMaker) • GCP • FastAPI • Flask
+## 📊 GitHub Stats  
 
-Frontend & Tools
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
-HTML • CSS • JS • React • Figma
-Postman • VS Code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 
-📂 Featured Projects
-🔥 1. Plant Species Classifier (CNN + Transfer Learning)
+---
 
-High-accuracy multi-class image classification using TensorFlow.
+## 🤝 Connect With Me  
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
 
-🌲 2. Wildfire Spread Prediction (ML Framework)
+---
 
-Final project using image data (Kaggle Wildfire dataset) for binary classification.
-
-👁️ 3. Real-Time Face Emotion Recognition (OpenCV + DL)
-
-Custom CNN + real-time deployment.
-
-🎙️ 4. Audio Command Recognition using Spectrograms
-
-Signal processing + CNN classifier.
-
-📱 5. Fashion Outfit Recommendation System (End-to-End)
-
-Embedding networks + similarity search.
-
-🌟 More projects coming soon — I am building 15 full projects to complete my GitHub AI portfolio.
-
-📊 GitHub Analytics
-
-
-
-
-🌐 Let's Connect
-
-LinkedIn
- • YouTube
- • TikTok
- • Portfolio Website (Coming Soon!)
-
-✨ Fun Facts About Me
-
-I love creating AI + content creation combo projects
-
-I enjoy exploring new datasets, especially on Kaggle
-
-I’m building a disciplined habit of one project per week
-
-My long-term goal: AI Research Engineer at TikTok / Google DeepMind / OpenAI
-
-🔥 Current Focus
-
-✔ Completing 15 AI/ML projects for my GitHub
-✔ Preparing for 2026 Summer Internships
-✔ Growing my LinkedIn + content creation
-✔ Deep diving into TensorFlow multi-class models
-✔ Publishing research-ready ML projects
-
-🏆 My Motto
-
-“Build. Train. Improve. Repeat.”
+<h3 align="center">✨ Thanks for visiting — Let’s build something amazing together! ✨</h3>
