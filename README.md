@@ -1,4 +1,4 @@
-Rashmi — AI & Machine Learning Engineer | Full-Stack & Creative Technologist
+AI & Machine Learning Engineer | Full-Stack & Creative Technologist
 
 Hi! I’m Rashmi, a passionate AI/ML Engineer, Deep Learning Developer, and Full-Stack Innovator currently pursuing my Master’s in Artificial Intelligence at Long Island University, NYC.
 
