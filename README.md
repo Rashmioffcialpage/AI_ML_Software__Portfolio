@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/rashmi_avatar.png" alt="Rashmi Avatar" width="150"/>
-</p>
+
+<img width="1024" height="1536" alt="Friendly Portrait of Rashmi" src="https://github.com/user-attachments/assets/74f83a79-af4a-416f-9c70-65ce3b997c82" />
 
 <h1 align="center">💫 Hey there, I'm <strong>Rashmi</strong>!</h1>
 
